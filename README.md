@@ -1,0 +1,2 @@
+# Bag-of-Events_Reasoning
+This repository is the RU-VU place to drop data in the form of bags-of-events and share code to reason over these events and find common patterns. A bag-of-events can be described as a sequence of events that relate to one unifying event. For example: all campaign events and debates that relate to specific elections. Reasoning over such instances can result in knowledge about subsumption and temporal relations between events.  
