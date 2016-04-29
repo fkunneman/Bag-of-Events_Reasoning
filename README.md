@@ -4,7 +4,7 @@ This repository is the RU-VU place to drop data in the form of bags-of-events an
 # Dataformat *
 Bags of events might be formatted in .json, with the following keys:
 
-bag-of-events_id : str                  Unique key 
+bag-of-events_id : str                  Unique key \\
 bag-of-events_name : str                Phrase that describes the unifying event 
 bag-of-events_type : str                Event type (disaster, human interest, sports, etc.), if known 
 bag-of-events_starttime : datetime      The start time of the event 
